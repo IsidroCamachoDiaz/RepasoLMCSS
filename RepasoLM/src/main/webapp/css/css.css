@@ -2,3 +2,25 @@ a{
 	text-decoration:none;
 	color:black;
 }
+.guardar{
+	background-color: blue;
+	color:aliceblue;
+}
+.consulta{
+	background-color: aliceblue;
+	color: black;
+	border-color: blue;
+}
+.titulos{
+	color: orange;
+}
+.tituloG{
+	color: orange;
+	font-size: 125px;
+	margin-left: -20%;
+}
+
+.tituloG2{
+	color: orange;
+	font-size: 125px;
+}
